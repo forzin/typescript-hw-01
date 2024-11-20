@@ -1,1 +1,0 @@
-# typescript-hw-01
